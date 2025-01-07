@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  7 16:10:19 2025
+
+@author: Tulsi
+"""
+
+web: streamlit run app.py --server.port $PORT 

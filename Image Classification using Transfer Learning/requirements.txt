@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  7 16:08:23 2025
+
+@author: Tulsi
+"""
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
