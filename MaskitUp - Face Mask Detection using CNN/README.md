@@ -1,4 +1,5 @@
 This project involves a Face Mask Detection model built using Convolutional Neural Networks (CNN), deployed as a web application using Flask. 
+
 The model detects whether a person in an image is wearing a face mask or not.
 
 ![demo_img](https://github.com/user-attachments/assets/82d5c81e-f118-48e4-b248-1d4ca6db5f80)
@@ -22,11 +23,15 @@ pip install -r requirements.txt
 **Project Structure**
 
 ├── app.py                       # Flask app for the web application
+
 ├── model/                       # Directory for storing the trained model
 │   └── face_mask_model.h5       # Pre-trained CNN model
+
 ├── uploads/                     # Directory to temporarily store uploaded images
+
 ├── templates/
 │   └── index.html               # HTML template for the web interface
+
 └── requirements.txt             # List of dependencies
 
 **How It Works**
