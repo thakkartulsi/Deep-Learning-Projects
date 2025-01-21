@@ -1,7 +1,6 @@
 # Hands Detection using Mediapipe
 
 This project uses MediaPipe and OpenCV to detect and track hand landmarks in static images and webcam input.
-
 ![hands-det](https://github.com/user-attachments/assets/d156afa8-2d8f-4a62-8900-3e3625d8a45e)
 
 ## Requirements
@@ -23,5 +22,5 @@ This project uses MediaPipe and OpenCV to detect and track hand landmarks in sta
 - Press the Esc key to exit.
 
 ### Features
-Detects up to 2 hands.
-Works with both static images and real-time webcam input.
+- Detects up to 2 hands.
+- Works with both static images and real-time webcam input.
